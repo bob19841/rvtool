@@ -1,0 +1,1 @@
+RVTools -passthroughAuth -s server_name -c  ExportvInfo2csv  -d c:\temp
